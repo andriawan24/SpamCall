@@ -1,9 +1,7 @@
 # SpamCall
 Make-It-Ring is a multithread Tokopedia call spammer
 
-Which expects a lot of "phone call" ring almost at the same time.
-
-Spam Call Made by p4kl0nc4t
+Which expects a lot of "phone call" ring almost at the same time
 
 
 # Dependency
