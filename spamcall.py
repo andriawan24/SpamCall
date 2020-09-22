@@ -1,9 +1,3 @@
-print("""\
-   __  __________  __
-  /  |/  /  _/ _ \/ / | Make-It-Ring!
- / /|_/ // // , _/_/  | Author: P4kL0nc4t
-/_/  /_/___/_/|_(_)   | https://github.com/p4kl0nc4t
-""")
 import thread
 import requests
 import sys
